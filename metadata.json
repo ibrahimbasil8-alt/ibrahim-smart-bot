@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Zaki AI - Your Smart Learning Buddy",
+  "description": "An intelligent, friendly, and bilingual (Arabic/English) assistant specialized in simplified learning and creative brainstorming.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
